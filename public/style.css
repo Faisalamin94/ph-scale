@@ -1,0 +1,81 @@
+body{
+  background-color: darkgrey;
+}
+h1 {
+background-color: white;
+text-align: left;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+  color: #fff;
+  padding: 5px;
+  margin: 0;
+  font-family: Arial; San Serif;    
+  font-size: 10px;
+}
+
+p.a {
+ background-color: rgb(53, 122, 175);
+}
+
+p.b {
+ background-color: rgb(54, 134, 185);        
+}
+
+p.c {
+ background-color: #3293c3;        
+}
+
+p.d {
+ background-color: #469fcb;        
+}
+
+p.e {
+ background-color: #5fadd2;        
+}
+
+p.f {
+ background-color: #75bada;        
+}
+
+p.g {
+ background-color: #8dc4df;        
+}
+
+p.h {
+ background-color: #23ab7e;     
+}
+
+p.i {
+ background-color: #e7abc1;        
+}
+
+p.j {
+ background-color: #e799b5;        
+}
+p.k {
+ background-color: #e587a7;
+}
+
+p.l {
+ background-color: #e2749a;    
+}
+
+p.m {
+ background-color: #e0658a;      
+}
+
+p.n {
+ background-color: #db5580;     
+}
+
+p.o {
+ background-color: #da3d75;        
+}
+p.jawanPakistan
+{
+ color: black;
+ text-shadow: #db5580;
+ text-align: center;
+}
